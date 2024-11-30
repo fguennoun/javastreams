@@ -1,0 +1,9 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ˆ´ï€8£‰µç·2
+l	java:S106"+Replace this use of System.out by a logger.(”îÅR8£•¬ç·2J$8b10d425-d9ba-4a33-8c2a-e8187c8988d0
+m	java:S106"+Replace this use of System.out by a logger.(ÆÀûý8£•¬ç·2J$1201a7a6-f432-4eab-9898-941e07e4db1a
+œ
+java:S6204-"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ªçŸŠøÿÿÿÿ8§‰µç·2
+r	java:S106""+Replace this use of System.out by a logger.(õì’öøÿÿÿÿ8£•¬ç·2J$5a078569-09d0-4f6c-a69f-57a0d7faba68
+m	java:S106&"+Replace this use of System.out by a logger.(ƒ‹¹Ï8£•¬ç·2J$962ef0ec-b0cf-4879-9c34-658865800080
+m	java:S106*"+Replace this use of System.out by a logger.(Æ°ÓÓ8£•¬ç·2J$44629690-9550-4d9f-a149-482f153d490f

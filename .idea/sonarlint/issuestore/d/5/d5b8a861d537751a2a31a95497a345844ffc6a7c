@@ -1,0 +1,12 @@
+
+“
+java:S1854"KRemove this useless assignment to local variable "personPersonDTOFunction".(šÎÇßúÿÿÿÿ8éá·2J$4e0a73bd-fef1-4ddd-9f2f-a6359700a0b2
+„
+java:S1481"<Remove this unused "personPersonDTOFunction" local variable.(šÎÇßúÿÿÿÿ8ëá·2J$cc5e525d-446d-4a10-b325-cebc5398fa4a
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¢«ã·2J$ab491501-5a2e-4ea6-a2f4-860728b2e350
+r	java:S106 "+Replace this use of System.out by a logger.(Æâ­ÿÿÿÿÿ8ìá·2J$ab165985-bdc6-45f8-8813-aa6be9c1ede5
+l	java:S106+"+Replace this use of System.out by a logger.(–¥ìC8ìá·2J$155f04fe-4605-4c5d-8657-a47ced0c59a5
+m	java:S1064"+Replace this use of System.out by a logger.(‚¨Ö§8íá·2J$da56c856-0062-464d-ac59-d13d06e96180
+m	java:S1065"+Replace this use of System.out by a logger.(«Ãıû8íá·2J$4246f7e4-b394-47f0-b8aa-b5fa2d49d45a
+m	java:S1066"+Replace this use of System.out by a logger.(µ®¶¼8—Ç¨Ì·2J$b35d4764-9a32-473d-b41d-0a0091291399

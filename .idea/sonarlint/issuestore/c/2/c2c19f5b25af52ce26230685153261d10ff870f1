@@ -1,0 +1,16 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(æ‡«å8Åûİ™·2J$b82610e0-a925-4349-9e3f-ebe5c056e3d6
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÅÊª’ùÿÿÿÿ8¤¤ñ™·2J$5e4b000b-4804-45b9-acc4-d5f63ad979e7
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(æ‡«å8êûİ™·2J$c7b89a4d-9bda-42bc-84af-e2de775cf796
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ã Ã²ÿÿÿÿÿ8êûİ™·2J$9082ea0f-8b40-4cf4-9a64-d71ce5026141
+r	java:S106"+Replace this use of System.out by a logger.(Äüò”ûÿÿÿÿ8 âá™·2J$e9fea1d2-0a61-4ad3-b2fc-0625bf5fa4ac
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÅÊª’ùÿÿÿÿ8«¤ñ™·2J$2654ef3f-182b-4fce-acd7-d0f0b1f2c7e1
+]	java:S125"<This block of commented-out lines of code should be removed.(şñ„—ÿÿÿÿÿ8¢Ø÷™·2
+r	java:S106"+Replace this use of System.out by a logger.(Äüò”ûÿÿÿÿ8Ìñ™·2J$62f57b48-908d-4cfc-ba0f-0fe2e2328e52
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¥Ø÷™·2
+n
+java:S5960"+Remove this assertion from production code.(£¥­î8êûİ™·2J$3fd387b8-e7aa-49dc-a448-3f728949f64d

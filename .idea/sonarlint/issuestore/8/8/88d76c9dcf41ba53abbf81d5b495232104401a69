@@ -1,0 +1,19 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¬´ôò8ÁŒÆŸ·2J$6bf1cc7a-6ac4-44ef-9e72-3e6a138b88b8
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(¢¨ÍÌüÿÿÿÿ8ÁŒÆŸ·2J$e86a7f15-4d1a-41ff-8a9c-586d716c0e6d
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¬´ôò8ÅŒÆŸ·2J$b5e20e58-9239-45d3-85ed-9f20ad590448
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ë·ªŸüÿÿÿÿ8ÅŒÆŸ·2J$784fe5a4-eb22-43d5-8d86-ce03bd47d542
+r	java:S106"+Replace this use of System.out by a logger.(¨‰’Úüÿÿÿÿ8ÆŒÆŸ·2J$2e03742d-3184-4601-a6fc-a328f63b7ec4
+m	java:S106""+Replace this use of System.out by a logger.(°×ëÃ8ÆŒÆŸ·2J$7de76562-6718-4685-a1d3-c2bd5954ff60
+´
+java:S1130&"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¢¨ÍÌüÿÿÿÿ8ÆŒÆŸ·2J$a662369f-e68c-4a89-9bc7-fd943645b867
+r	java:S106'"+Replace this use of System.out by a logger.(¨‰’Úüÿÿÿÿ8ÈŒÆŸ·2J$358ac378-b9c4-4df8-8a14-df3573b21087
+½
+java:S6204+"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ÆŒÆŸ·2J$7b941491-b2c9-493d-b4cc-8eb3e0daefc9
+m	java:S106,"+Replace this use of System.out by a logger.(°×ëÃ8È«¢å·2J$ad0806aa-a99d-4fdf-95ae-9170e16e0a07
+½
+java:S62048"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ÇŒÆŸ·2J$2e8f7a4e-781a-4d4e-8df2-89d8795cc59b
+L	java:S106:"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8‰„¤å·2
+…
+java:S1128"=Remove this unused import 'org.junit.jupiter.api.BeforeEach'.(Ú’ èùÿÿÿÿ8ÈŒÆŸ·2J$04d55329-5c94-491b-b15f-a5a2402f4708

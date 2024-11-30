@@ -1,0 +1,40 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥€öûÿÿÿÿ8ğÌ’š·2J$e881fd31-e0e2-4498-b5a2-c0456295bd9b
+	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(àäÈóùÿÿÿÿ8ø¥š·2J$c328d60a-3f21-409f-a03a-3b3cabe45e87
+ˆ	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(‹Åïˆ8 Æ¬š·2J$6250a964-1a26-4c1a-832d-679e31f7df45
+	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(°ïÑèøÿÿÿÿ8Àº·2J$73440905-a5fe-4638-922b-b87dedb8dfb6
+ˆ	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.( ŠÈ8×„½·2J$866b1437-de63-490d-a080-d6d65a5d9621
+ˆ	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(²òè¬8÷ÁÊ·2J$3d485289-d698-45d8-b862-952fe887d7de
+	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(ÿƒ×ğıÿÿÿÿ8÷ÁÊ·2J$332cf6b7-e60e-4b28-aaba-ac2ce63df233
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8©Ñ˜š·2J$781cda02-e88b-4425-9f0d-749b23371243
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8Ğø˜š·2J$04f8f2c6-9f6d-48bb-bdb2-51b0a440ecb7
+r	java:S106"+Replace this use of System.out by a logger.(æ˜Å·øÿÿÿÿ8Òø˜š·2J$22097588-3435-4659-b53d-3a3c87ddbb0c
+´
+java:S1130#"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(àäÈóùÿÿÿÿ8—ø¥š·2J$d9bee7a5-1fd1-4886-92b1-c8ba9dd4d8f6
+m	java:S106%"+Replace this use of System.out by a logger.(ıœ‚·8Ûã¥š·2J$9363f949-610f-4113-8977-d0bab1767bb2
+r	java:S106'"+Replace this use of System.out by a logger.(–ÀÑ¬ÿÿÿÿÿ8Ûã¥š·2J$af6280e5-b96b-4a8c-8753-dfaaf6c6d7d8
+r	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ûã¥š·2J$7af2f44e-d81b-4792-a5d8-94c607a15624
+m	java:S106*"+Replace this use of System.out by a logger.(¥ù‰’8Ûã¥š·2J$9b45a464-d119-4c30-8c5e-c450471a2cf3
+r	java:S106,"+Replace this use of System.out by a logger.(–ÀÑ¬ÿÿÿÿÿ8Üã¥š·2J$ea42beb5-d29d-45fa-b7d4-29119e005bb9
+¯
+java:S11300"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‹Åïˆ8§Æ¬š·2J$c5eceef4-59c3-4991-be7f-297656d585cd
+m	java:S1061"+Replace this use of System.out by a logger.(ıœ‚·8§Æ¬š·2J$1c1dbe25-b40a-4163-93f9-e67865b3f2ee
+r	java:S1063"+Replace this use of System.out by a logger.(–ÀÑ¬ÿÿÿÿÿ8©Æ¬š·2J$ca5f5d36-f697-44be-a4d3-16aaa56ae273
+r	java:S1064"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8©Æ¬š·2J$87b867d2-2389-48c6-afe6-afbd01189977
+r	java:S1065"+Replace this use of System.out by a logger.(öÕ˜ûşÿÿÿÿ8©Æ¬š·2J$7caf5daa-607b-4b06-9c4f-618b4df4e08b
+r	java:S1067"+Replace this use of System.out by a logger.(–ÀÑ¬ÿÿÿÿÿ8©Æ¬š·2J$a76fab48-73fc-48bf-ae84-52b47eeae594
+´
+java:S1130<"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(°ïÑèøÿÿÿÿ8Êº·2J$60a374b8-fc92-4e1f-8b9c-fabb50985905
+r	java:S106A"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8‚ú¹·2J$55aaa37b-209f-46a1-b0e5-4ae24c814a52
+¯
+java:S1130E"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.( ŠÈ8â„½·2J$90d41940-72b3-40d5-94e9-14e9dad9bf0e
+r	java:S106J"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8â„½·2J$57f2e97a-078b-44e8-b2e3-69ff5e85ca4e
+¯
+java:S1130N"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(²òè¬8‚ÂÊ·2J$32660db5-d81a-4c0b-89a7-a95a18b35940
+m	java:S106Q"+Replace this use of System.out by a logger.(ÉåÕ8‚ÂÊ·2J$64f32f98-f55a-4793-baed-f1a9cab20fff
+´
+java:S1130U"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÿƒ×ğıÿÿÿÿ8ƒÂÊ·2J$edd52230-3b6a-45d5-86e9-c69a1087aa96
+l
+java:S1940W")Use the opposite operator ("!=") instead.(Š¹Ì’8ôØ·2J$831c8dde-f0b1-4e2a-ba47-97cea0ef12ca
+r	java:S106X"+Replace this use of System.out by a logger.(•‰Å³ûÿÿÿÿ8ŠÂÊ·2J$56f7d5d0-f7b0-441a-b781-6cdb43b311dd

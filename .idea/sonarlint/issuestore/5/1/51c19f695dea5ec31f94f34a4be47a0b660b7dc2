@@ -1,0 +1,15 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(’®­8Á˜µ—·2J$fd407e97-eab9-4e42-922c-551c29ece5b2
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(æÿ…Ãøÿÿÿÿ8¹òÅ˜·2J$aecd1e47-3757-4d7c-bb72-95dbcb45b8f3
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(’®­8Ä˜µ—·2J$a7610400-a072-4df1-b069-ae8ef1aab267
+r	java:S106"+Replace this use of System.out by a logger.(ĞŸâÏúÿÿÿÿ8´ì´—·2J$63b63923-5906-4a08-95ce-0cfb94906c71
+r	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8Àì´—·2J$28c57dd1-57a6-442f-a1d4-a86263ee56f5
+m	java:S106"+Replace this use of System.out by a logger.(İˆ‹¡8Å˜µ—·2J$d2e5d2a1-75f9-4dc4-ac41-be0e45584879
+r	java:S106"+Replace this use of System.out by a logger.(²ìŠôÿÿÿÿÿ8Âì´—·2J$461ac1bf-772a-4bab-bb93-33e03d5f3878
+m	java:S106"+Replace this use of System.out by a logger.(òèÈ”8Å˜µ—·2J$16f3cc59-6491-460f-b395-210d3dd857af
+m	java:S106"+Replace this use of System.out by a logger.(¾Ç™»8Æ˜µ—·2J$bd52fb70-13fd-4735-a727-e795ec3559f5
+t
+java:S1602",Remove useless curly braces around statement(î×Š—şÿÿÿÿ8²¸Å˜·2J$88d9d7e7-c297-4592-bcda-4d8c4a577c3f
+r	java:S106"+Replace this use of System.out by a logger.(›ø›·şÿÿÿÿ8²¸Å˜·2J$5f1f1196-6493-44b3-8322-7e11824ecaea
+r	java:S106'"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8ÊÕÌ˜·2J$2e67b9ed-482e-4983-a4da-f8fc6f11ff5e
